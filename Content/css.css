@@ -22,47 +22,6 @@ mcTableStyle
 	background-color: #000000;
 }
 
-mcTableColumnStyle
-{
-	span: 1;
-	separator-style: solid;
-	separator-width: 1px;
-	separator-color: #000000;
-	name: Column1;
-	id: 0;
-}
-
-mcTableHeadStyle
-{
-	span: 1;
-	separator-style: solid;
-	separator-width: 1px;
-	separator-color: #000000;
-	name: Header1;
-	id: 2;
-}
-
-mcTableBodyStyle
-{
-	span: 1;
-	separator-style: solid;
-	separator-width: 1px;
-	separator-color: #000000;
-	name: Body1;
-	id: 1;
-}
-
-mcTableFootStyle
-{
-	span: 1;
-	separator-style: solid;
-	separator-width: 1px;
-	separator-color: #000000;
-	name: Footer1;
-	id: 3;
-}
-
-
 /* Cell Styles: */
  
 .TableStyle-css
@@ -84,25 +43,6 @@ mcTableFootStyle
 	border-spacing: 0px 0px;
 }
 
-.TableStyle-css-Column-Column1
-{
-	
-}
-
-.TableStyle-css-Head-Header1
-{
-	
-}
-
-.TableStyle-css-HeadI-Column1-Header1
-{
-	
-}
-
-.TableStyle-css-HeadI-Column1-Header1 p
-{
-	
-}
 
 .TableStyle-css-HeadE-Column1-Header1
 {
