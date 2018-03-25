@@ -4,6 +4,15 @@
   <TocEntry
     Title="New TOC Book">
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topics/Topic1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topics/Topic2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topics/Topic3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
       Title="New Entry" />
   </TocEntry>
   <TocEntry
