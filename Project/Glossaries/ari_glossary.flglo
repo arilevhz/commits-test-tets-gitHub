@@ -17,4 +17,14 @@
     <Definition
       Link=""></Definition>
   </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="ari_glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>NEWTERM</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
 </CatapultGlossary>
